@@ -30,14 +30,16 @@ To get started with the Flutter eCommerce App, follow these steps:
    ```shell
    git clone https://github.com/lordrhaegar/Plantpal.git
 2. Navigate to the project directory:
+   ```shell
    cd Plantpal
-3. Install dependencies:
+4. Install dependencies:
+   ```shell
    flutter pub get
-4. Configure Firebase:
+6. Configure Firebase:
 
     Create a Firebase project on the Firebase Console.
     Set up Firebase Authentication and Firestore.
     Download the Firebase configuration file (google-services.json) and place it in the android/app directory
-5. Run the app:
+7. Run the app:
+   ```shell
    flutter run
-6. 
